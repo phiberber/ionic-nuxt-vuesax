@@ -1084,21 +1084,21 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@ionic/core@5.6.6", "@ionic/core@^5.6.6":
-  version "5.6.6"
-  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-5.6.6.tgz#6392fdececca8c955c2309d05dfff8c467d8dc0b"
-  integrity sha512-EbVIXOTVVPxBo7hsarBpRSFNsQ22wBFtWkKmrmliieknG5LUkf5WZBpj4EENQhzYA6c+//7/nfhcD9pWgtAofA==
+"@ionic/core@5.6.7", "@ionic/core@^5.6.6":
+  version "5.6.7"
+  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-5.6.7.tgz#bf671706ba8d759570642105b02d202d59c2bcfc"
+  integrity sha512-bLH1sS2DI+C8trfYe/L96G2y+hJ9fK/azrNqGvGwHQAPy2li89DldbH+wPqe/Wclru8ZaWjRv35AyLBawixC2w==
   dependencies:
     "@stencil/core" "^2.4.0"
     ionicons "^5.5.1"
     tslib "^2.1.0"
 
-"@ionic/vue@^5.6.6":
-  version "5.6.6"
-  resolved "https://registry.yarnpkg.com/@ionic/vue/-/vue-5.6.6.tgz#e003cd35431f3be76fd66040d24eac94ab153b0b"
-  integrity sha512-usJMB0iQ/BC0Li3h+KX5BkYuMs87vSMvUUHa2tRrHM6Vt0igET7REPlxIWSftpzrepVsTzGlcBV6OMBjMb2H5w==
+"@ionic/vue@^5.6.7":
+  version "5.6.7"
+  resolved "https://registry.yarnpkg.com/@ionic/vue/-/vue-5.6.7.tgz#23a070b089fe51d0be16911d6f2569c7de1e6af8"
+  integrity sha512-zp2jLhzYIEsKm6SW8gvHdqDspq9od/NbB0DKTw9wBqbQ4KIG0kWM8318VS2i/Wu1tGRXCxag9TCMDBylSDrhdA==
   dependencies:
-    "@ionic/core" "5.6.6"
+    "@ionic/core" "5.6.7"
     ionicons "^5.1.2"
 
 "@nicolo-ribaudo/chokidar-2@2.1.8-no-fsevents":
